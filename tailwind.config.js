@@ -2,6 +2,9 @@
 module.exports = {
   content: ["./build/**/*.{html,js}"],
   theme: {
+    container: {
+      center:true,
+    },
     darkMode: 'class',
     extend: {
       'widescreen': { 'raw': '(min-aspect-ratio: 3/2)' },

@@ -1,4 +1,4 @@
-/* Light & Dark Mode Toggle */ 
+/* Light & Dark Mode Toggle  
 
 const darkIcon = document.querySelector('.dark');
 const lightIcon = document.querySelector('.light');
@@ -40,4 +40,4 @@ darkIcon.addEventListener('click', () => {
     themeSwitch();
 })
 
-themeCheck();
+themeCheck();*/
